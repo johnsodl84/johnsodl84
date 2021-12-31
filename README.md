@@ -12,7 +12,7 @@
   Django
   Bootstrap
   HTML
-  And much more!
+  and much more!
 
 📫 How to reach me, johnsodl84@gmail.com
 
